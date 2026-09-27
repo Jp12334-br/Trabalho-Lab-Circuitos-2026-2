@@ -40,7 +40,4 @@ O sistema monitora continuamente as condições da planta por meio de sensores e
 - Android Studio
 - JSON
 
-## 👨‍💻 Autor
 
-**João Pedro Oliveira de Sousa**  
-Projeto acadêmico — Laboratório de Circuitos I (2026/2)
