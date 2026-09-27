@@ -1,0 +1,3 @@
+[submodule "IntegracaoKtor_Esp32"]
+	path = IntegracaoKtor_Esp32
+	url = https://github.com/Jp12334-br/IntegracaoKtor_Esp32.git
